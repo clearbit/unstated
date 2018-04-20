@@ -1,5 +1,2 @@
 node_modules
 *.log
-lib
-.cache
-dist
